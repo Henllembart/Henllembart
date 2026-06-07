@@ -1,16 +1,16 @@
-## Hi there 👋
+# João Pedro Henllembart Maria
 
-<!--
-**Henllembart/Henllembart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação com foco em Java. Atualmente estudo fundamentos de programação, orientação a objetos, coleções e boas práticas de desenvolvimento. Tenho interesse em tecnologia, aprendizado contínuo e construção de soluções que gerem impacto positivo.
 
-Here are some ideas to get you started:
+### Atualmente estudando
+- Java
+- Programação Orientada a Objetos
+- Frameworks, como Spring
+- Estruturas de Dados
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Objetivos de longo prazo
+- Atuar profissionalmente no desenvolvimento de software
+- Expandir conhecimentos para Python e outras tecnologias
+- Especializar-me em Inteligência Artificial e Machine Learning
+
