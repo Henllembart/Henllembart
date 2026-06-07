@@ -14,4 +14,5 @@ Desenvolvedor em formação com foco em Java. Atualmente estudo fundamentos de p
 - Expandir conhecimentos para Python e outras tecnologias
 - Especializar-me em Inteligência Artificial e Machine Learning
 
+### Linguagens que sei!
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
